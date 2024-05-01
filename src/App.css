@@ -1,0 +1,16 @@
+#btns{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 12px;
+  margin-top: 60px;
+}
+#new-quote{
+  margin-left: 0;
+  padding: 12px;
+  border: 2px solid #001222;
+  border-radius: 8px;
+  border-top-left-radius: 8px;
+  background-color: #182dcd;
+  color: aqua;
+}
